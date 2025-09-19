@@ -343,7 +343,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 NO OBJECT
 
-<img width="671" height="580" alt="image" src="https://github.com/user-attachments/assets/0d68bd18-143a-454c-b44b-fcc58be29b25" />
+<img width="671" height="480" alt="image" src="https://github.com/user-attachments/assets/0d68bd18-143a-454c-b44b-fcc58be29b25" />
 
 WITH OBJECT
 
